@@ -1,0 +1,23 @@
+body {
+  background-color: #010313;
+}
+.container {
+  text-align: center;
+}
+.time {
+  color: rgb(130, 63, 218);
+  font-size: 200px;
+  margin-top: 200px;
+}
+.options button {
+  background-color: #010313;
+  border: 1px solid rgb(180, 136, 238);
+  color: rgb(137, 104, 226);
+  width: 150px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: large;
+  box-shadow: 10px 1px 20px;
+  cursor: pointer;
+}
